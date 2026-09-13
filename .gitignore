@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.m4v
+
+# Run logs: they contain local paths and transcripts of processed video.
+logs/
